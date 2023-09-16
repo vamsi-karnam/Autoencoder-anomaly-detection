@@ -1,4 +1,4 @@
-# Autoencoder-anomaly-detection
+# Anomaly Detection using Autoencoder architecture
 Building an Autoencoder to detect anomalies in data
 
 ## References
