@@ -21,4 +21,4 @@ Data source:
 > Chalapathy, R., Chawla, S., “Deep Learning for Anomaly Detection: A Survey,” arXiv preprint arXiv:1901.03407, 2019.
 
 [3] [VAE's vs GAN's for Anomaly Detection](https://www.linkedin.com/advice/3/what-advantages-disadvantages-gan-vae-anomaly-detection#:~:text=Disadvantages%20of%20GAN,-GANs%20have%20some&text=GANs%20are%20not%20genuinely%20built,broad%20range%20of%20data%20representations)
-
+> “What are the advantages and disadvantages of GAN over VAE in anomaly detection?” LinkedIn.
