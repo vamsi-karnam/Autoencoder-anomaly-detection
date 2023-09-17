@@ -1,5 +1,7 @@
 # Anomaly Detection using Autoencoder architecture
-Building an Autoencoder to detect anomalies in data
+This project is an application of anomaly detection, specifically focusing on audio data. The goal is to identify “anomalies” or “outliers” which in this context are audio files that contain bird calls.
+
+- In essence, the model tries to learn what constitutes “normal” from the training data and is then tasked with flagging anything that deviates from this norm (i.e., bird calls) in the testing data. This approach is characteristic of anomaly detection systems and can be particularly useful in scenarios where labeled data is scarce or when we’re more interested in detecting unusual events rather than common ones.
 
 # Datasets
 1. Warblr and Freefield datasets: These datasets contain audio files that are labeled as either containing bird calls or not. They are used for training the model.
